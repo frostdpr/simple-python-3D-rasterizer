@@ -1,0 +1,15 @@
+png 120 120 hw2rotatex.png
+xyz -0.6 -0.5 0.5
+xyz 0.5 -0.4 1.0
+xyz 0.5 0.5 0.0
+color 1 0 0
+trif 1 2 3
+rotatex 25
+color 0 1 0
+trif 1 2 3
+rotatey 25
+color 0 0 1
+trif 1 2 3
+rotatez -45
+color 1 0 1
+trif 1 2 3

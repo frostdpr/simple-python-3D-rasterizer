@@ -1,0 +1,10 @@
+png 120 120 hw2rotate.png
+xyz -0.6 -0.5 0.5
+xyz 0.5 -0.4 1.0
+xyz 0.5 0.5 0.0
+color 0 0 1
+rotate 120 1 2.718281828 3.14159265
+trif 1 2 3
+color 0 1 0
+rotate 20 2.718281828 3.14159265 1
+trif 1 2 3

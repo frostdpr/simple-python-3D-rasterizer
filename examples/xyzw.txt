@@ -1,0 +1,9 @@
+png 120 120 hw2xyzw.png
+
+xyz 0.5 0 0
+xyzw 1 2 1 2
+xyzw 1 1 -0.5 -1
+
+color 0 0 0
+
+trif 1 2 3

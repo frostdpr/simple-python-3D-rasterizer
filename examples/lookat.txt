@@ -1,0 +1,12 @@
+png 120 120 hw2lookat.png
+xyz -0.2 0.5 0
+xyz 0.3 -0.1 0.5
+xyz -1.0 0.0 0.0
+xyz -0.6 0.4 0.0
+xyz -0.2 0.0 -0.9
+color 0.5 0.5 1
+lookat 1 2 1.0 2.1 -5.3
+trif 3 4 5
+color 0.5 1 0.5
+lookat 1 2 1.0 2.1 5.3
+trif 3 4 5

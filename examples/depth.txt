@@ -1,0 +1,19 @@
+png 120 120 hw2depth.png
+
+xyz -0.9 -0.3 1
+xyz -0.6 -0.8 1
+xyz  0.9  0.6 0
+color 1 0 0
+trif -1 -2 -3
+
+xyz -0.1  0.9 1
+xyz  0.3  0.9 1
+xyz  0.2 -0.9 0
+color 0 1 0
+trif -1 -2 -3
+
+xyz  0.7 -0.9 1
+xyz  0.8 -0.6 1
+xyz -0.8  0.1 0
+color 0 0 1
+trif -1 -2 -3

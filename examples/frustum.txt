@@ -1,0 +1,112 @@
+png 120 120 hw2frustum.png
+
+color 0 0.5 0
+loadmv 1 0 0 0  0 0 1 -1.2  0 1 0 4.5  0 0 0 1
+
+xyz -3 -4 0
+xyz -2 -4 0
+xyz -1 -4 0
+xyz  0 -4 0
+xyz  1 -4 0
+xyz  2 -4 0
+xyz  3 -4 0
+
+xyz -3 -3 0
+xyz -2 -3 0
+xyz -1 -3 0
+xyz  0 -3 0
+xyz  1 -3 0
+xyz  2 -3 0
+xyz  3 -3 0
+
+xyz -3 -2 0
+xyz -2 -2 0
+xyz -1 -2 0
+xyz  0 -2 0
+xyz  1 -2 0
+xyz  2 -2 0
+xyz  3 -2 0
+
+xyz -3 -1 0
+xyz -2 -1 0
+xyz -1 -1 0
+xyz  0 -1 0
+xyz  1 -1 0
+xyz  2 -1 0
+xyz  3 -1 0
+
+xyz -3  0 0
+xyz -2  0 0
+xyz -1  0 0
+xyz  0  0 0
+xyz  1  0 0
+xyz  2  0 0
+xyz  3  0 0
+
+xyz -3  1 0
+xyz -2  1 0
+xyz -1  1 0
+xyz  0  1 0
+xyz  1  1 0
+xyz  2  1 0
+xyz  3  1 0
+
+xyz -3  2 0
+xyz -2  2 0
+xyz -1  2 0
+xyz  0  2 0
+xyz  1  2 0
+xyz  2  2 0
+xyz  3  2 0
+
+xyz -3  3 0
+xyz -2  3 0
+xyz -1  3 0
+xyz  0  3 0
+xyz  1  3 0
+xyz  2  3 0
+xyz  3  3 0
+
+frustum -0.5 0.5   0.1 -0.5   -0.5 -10
+
+trif 1 2 9
+trif 9 8 1
+trif 3 4 11
+trif 10 11 3
+trif 5 6 13
+trif 13 12 5
+
+trif 9 10 17
+trif 17 16 9
+trif 11 12 19
+trif 19 18 11
+trif 13 14 21
+trif 21 20 13
+
+trif 15 16 23
+trif 23 22 15
+trif 17 18 25
+trif 25 24 17
+trif 19 20 27
+trif 27 26 19
+
+trif 23 24 31
+trif 31 30 23
+trif 25 26 33
+trif 33 32 25
+trif 27 28 35
+trif 35 34 27
+
+trif 29 30 37
+trif 37 36 29
+trif 31 32 39
+trif 39 38 31
+trif 33 34 41
+trif 41 40 33
+
+trif 37 38 45
+trif 45 44 37
+trif 39 40 47
+trif 47 46 39
+trif 41 42 49
+trif 49 48 41

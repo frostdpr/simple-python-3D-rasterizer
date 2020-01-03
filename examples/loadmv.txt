@@ -1,0 +1,9 @@
+png 120 120 hw2loadmv.png
+xyz -0.8 -0.5 0.6
+xyz 0.1 0.5 0.7
+xyz 0.9 -0.0 0.6
+color 1 0 0
+trif 1 2 3
+loadmv 0.7 0.1 0.2 0.1   -0.1 0.6 0.1 -0.1   0 0 1 -0.3   0 0 0 1
+color 0 0 1
+trif 1 2 3
