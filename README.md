@@ -19,13 +19,9 @@ Requires Python3
 
 Adds the point *x y z 1* to the vertex list.
 
-![]()
-
 #### xyzw *x y z w*
 
 Adds the point *x y z w* to the vertex list.
-
-![](https://raw.githubusercontent.com/frostdpr/simple-python-3D-rasterizer/master/output/xyzw.png)
 
 #### trif *i1 i2 i3*
 
@@ -50,8 +46,6 @@ Sets the current color to *r g b*, floating point between 0 and 1.
 ![](https://raw.githubusercontent.com/frostdpr/simple-python-3D-rasterizer/master/output/loadp.png)
 
 #### loadmv *a1,1 a1,2 a1,3 a1,4 a2,1 a2,2 … a4,4*
-
-![]()
 
 #### ortho *l r b t n f*
 
