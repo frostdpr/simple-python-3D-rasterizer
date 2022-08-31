@@ -1,4 +1,4 @@
-# simple-python-3D-rasterizer
+# A basic software 3D rasterizer
 
 ![](https://raw.githubusercontent.com/frostdpr/simple-python-3D-rasterizer/master/output/depth.png)
 
